@@ -15,28 +15,6 @@ A dynamic and responsive portfolio website built with HTML, CSS, and JavaScript,
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 
-## How to Run Locally 💻
-
-1. **Clone the Repository** 
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-
-2. **Install Dependencies** 
-
-   Install backend dependencies using:
-   ```bash
-   npm install
-
-3. **Start the Backend Server**
-
-    Run the backend server with: 
-   ```bash
-   npm start
-
-4. **Open the Frontend**
-
-    Open `index.html` in your browser to view the portfolio.
-
 ## API Integration 🌟
 
 - **Codeforces API**: Used to fetch and display real-time Codeforces ratings.
