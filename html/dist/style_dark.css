@@ -1,0 +1,163 @@
+a {
+    color: white;
+}
+
+body {
+    background-color: rgb(13, 23, 33);
+}
+
+/* Navbar */
+
+.navmenu:hover {
+    background-color: rgb(16, 31, 48);
+    box-shadow: 0px 0.1rem rgb(255, 183, 50);
+}
+
+#night {
+    opacity: 1;
+}
+
+#night:hover {
+    background-color: rgb(10, 19, 29);
+}
+
+.fa-moon {
+    color: rgb(255, 255, 0);
+}
+
+#navphone {
+    background-color: rgb(13, 23, 33);
+}
+
+#tglmenubox {
+    background-color: rgba(13, 23, 33, 0.936);
+}
+
+.tglmenuicons {
+    color: rgb(255, 183, 50);
+}
+
+/* Title  */
+
+#dpbox {
+    box-shadow: 0px 0px 6px 4px rgb(0, 0, 0);
+}
+
+#dpbox:hover {
+    box-shadow: 0px 0px 15px 6px rgb(0, 0, 0);
+}
+
+#titletext,
+#eclaimation {
+    color: rgb(220, 219, 219);
+}
+
+#name {
+    color: rgb(255, 183, 50);
+}
+
+/* Button */
+
+#bigbtn a {
+    color: white;
+    font-weight: 500;
+}
+
+.mebtn {
+    border: 2px solid rgb(255, 206, 145);
+    background-color: rgba(0, 0, 0, 0.244);
+}
+
+.mebtn:hover {
+    background-color: rgba(0, 0, 0, 0.731);
+}
+
+.mebtn:active {
+    background-color: none;
+}
+
+/* About */
+
+.abt {
+    color: rgb(216, 216, 216);
+}
+
+#abtmain {
+    color: white;
+}
+
+/* Qualifications */
+
+.qualifications {
+    box-shadow: 2px 2px 4px 1px rgb(0, 0, 0);
+    background-color: rgb(255, 199, 95);
+}
+
+#CodeForces,
+#Hackerrank {
+    background-color: rgb(255, 199, 95);
+}
+
+/* Projects */
+
+#projectboxheading {
+    box-shadow: 8px 8px 0px 0px rgb(255, 183, 50);
+}
+
+.projects {
+    box-shadow: 0px 0px 8px 8px rgb(0, 0, 0);
+    background-color: rgb(255, 199, 94);
+}
+
+.projects:hover {
+    background-color: rgb(255, 186, 58);
+}
+
+#moreprojects {
+    box-shadow: 0px 0px 8px 8px rgb(0, 0, 0);
+}
+
+/* Footer */
+
+.addresscontents {
+    color: black;
+}
+
+.usefullinkscontents {
+    color: black;
+}
+
+#usefullinksheading {
+    color: black;
+}
+
+/* Contact */
+#contactwindow {
+    background-color: rgba(0, 0, 0, 0.537);
+}
+
+#contactboxheading {
+    color: rgb(255, 183, 50);
+}
+
+.contactinput {
+    border: 4px solid rgb(255, 183, 50);
+}
+
+#send {
+    background-color: rgb(255, 183, 50);
+    border: 4px solid rgb(255, 183, 50);
+}
+
+/* Go to top */
+
+.gototopbox {
+    background-color: rgb(255, 183, 50);
+    box-sizing: border-box;
+    box-shadow: 0px 0px 12px -5px black;
+}
+
+.gototopbox:active #gototop {
+    background-color: white;
+    color: rgb(13, 23, 33);
+}
