@@ -15,7 +15,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 app.use(express.static("dist"));
 
-mongoose.connect('mongodb+srv://tejash835274:aditya%401841@aditya.xp2wufc.mongodb.net/forms', {})
+mongoose.connect( MONGODB_URI , {})
     .then(() => console.log('Connected to MongoDB'))
     .catch(err => console.error('Could not connect to MongoDB:', err));
 
